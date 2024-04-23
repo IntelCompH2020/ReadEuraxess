@@ -1,0 +1,9 @@
+[euraxess]
+#Path where raw XML files are stored
+path = 
+#CSV where all offers will be consolidated
+csv_file = 
+#Extension to differentiate already processed files
+proc_extension 	= old
+#Fields that will be retained
+fields=job_id,job_title,job_summary,job_description,main_research_field,sub_research_field,researcher_profile,type_of_contract,job_status,hours_per_week,job_start_date,application_deadline,science4refugees,comment,info_website,framework_programme,job_reference_number,nr_job_positions,job_organisation_institute,job_country,job_city,organisation_institute,organisation_institute_type,country,e_mail,website,benefits,research_sub_field,years_of_research_experience,degree,discipline,language,language_level
