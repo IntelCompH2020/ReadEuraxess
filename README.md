@@ -14,7 +14,6 @@ The process is composed of two phases:
 <div style="background-color: yellow; color: black; padding: 10px; border-radius: 5px; margin: 20px 0;">
     <strong>Warning:</strong> Permision to crawl this dataset should be granted by the website owners. You should refer to them to get the URL that should be used in the previous terminal command line.
 </div>
-Permision to crawl this dataset should be granted by the website owners
 
    3. To consolidate all downloaded data (since offers appear repeteade in the retrieved files) we need to run the following python script
 
